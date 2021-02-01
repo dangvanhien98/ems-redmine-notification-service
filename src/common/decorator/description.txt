@@ -1,0 +1,1 @@
+Decorator is an expression which returns a function and can take a target, name and property descriptor as arguments

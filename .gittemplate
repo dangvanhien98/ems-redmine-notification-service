@@ -1,0 +1,11 @@
+# Commit templaté:
+#
+# [build] Changes that affect the build system or external debendencies (example scopes: guld, npm, ...)
+# [ci] Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack)
+# [docs] Documentation only changes
+# [feat] A new feature (example scopes: create new service, controller, ...)
+# [fix] A bug fix
+# [perf] A Code change that improves performance
+# [refactor] A Code change that neither fixes a bug nor adds a feature
+# [style] Changes that do not affect the meaning of the code (example scopes: white-space, formatting, missing semi-colons, missing end of file)
+# [test][ut|e2e] Add missing tests or correcting existing tests

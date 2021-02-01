@@ -1,0 +1,1 @@
+Guards determine request will be handled by the route handler or not, depending on certain conditions present at run-time
